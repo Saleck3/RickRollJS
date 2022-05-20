@@ -8,7 +8,7 @@ window.onload = function trigger() {
         //A catchy phrase to bait unsuspicious people
 
         if (html_element.getAttribute("bait") != null) {
-            trigger = html_element.getAttribute("bait");
+            console.log(html_element.getAttribute("bait"));
         }
 
         //Change the trigger if specified
