@@ -67,8 +67,7 @@ function rickRoll() {
   video.setAttribute("width", "1060px");
   video.setAttribute("height", "615px");
   video.classList.add("rick");
-  console.log(1);
-
+  
   //Why not another reference
   video.setAttribute("title", "Cake is a lie");
 

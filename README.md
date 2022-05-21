@@ -8,8 +8,8 @@ To use a different trigger or to set a message, add it as a parameter in the HTM
 
 E.g.:
 
-`<script src="WheneverYouNeedSomebody.js" id="SomethingSpecial" trigger="asdf" bait="If you're from Konami & see this, please do not sue us for the easter egg"></script>`
+`<script src="https://saleck3.github.io/RickRollJS/WheneverYouNeedSomebody.js" id="SomethingSpecial" trigger="ArrowUpArrowUpArrowDownArrowDownArrowLeftArrowRightArrowLeftArrowRightba" bait="If you're from Konami & see this, please do not sue us for the easter egg"></script>`
 
 -   id="SomethingSpecial" (required for special message/trigger)
--   trigger="asdf" Set the key press for the trigger
+-   trigger="asdf" Set the key press for the trigger (Default: the Konami code)
 -   bait="asdf" Set a message to show in console
